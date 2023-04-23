@@ -2,12 +2,12 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Gustavo Rezende",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/profile.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "",
     email: "gustavorezendesilva@hotmail.com",
-    linkedin: "rezenders",
-    github: "rezenders",
+    linkedin: "",
+    github: "",
     twitter: "grezenders",
     instagram: "",
   },
@@ -19,7 +19,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Rezenders world",
+    title: "rezenders world",
     description: "Welcome!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
